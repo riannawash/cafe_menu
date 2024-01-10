@@ -7,4 +7,4 @@ To view:
 - Open the `index.html` file in your web browser. Navigate through the coffee and dessert sections to explore our offerings. The responsive design ensures an optimal viewing experience on various devices.
 
 License
-Cafe Menu is open source and free to use. This project was created through [freeCodeCamp.org](https://www.freecodecamp.org).
+- Cafe Menu is open source and free to use. This project was created through [freeCodeCamp.org](https://www.freecodecamp.org).
